@@ -7,7 +7,7 @@ When you want to use a flat theme, the editor window becomes difficult to distin
 
     ![comparison](images/comparison.png)
 
-* This plugin has hacked their implementation to bring back the system window shadows while removing their rounded corners. Additionally, it speeds up the response time when opening windows.  
+* [This plugin](https://www.unrealengine.com/marketplace/slug/cde82875e27446b6b13799335c0889db) has hacked their implementation to bring back the system window shadows while removing their rounded corners. Additionally, it speeds up the response time when opening windows.  
 To clearly see the changes, I suggest using a flat editor theme. You can use my [Visual Studio Code theme](VisualStudioCode.json).  
 Download and place it in the directory
 
@@ -15,6 +15,11 @@ Download and place it in the directory
 
     ![change theme](images/theme.png)
 
-  Then launch Unreal Engine and select it in Editor Preferences->Appearance->Theme
+  Then launch Unreal Engine and select it in `Edit->Editor Preferences->Appearance->Theme`
 
   ![active theme](images/active_theme.png)
+
+  And finally enable this plugin in `Edit->Plugins`
+
+  ![enable](images/enable.png)
+  
