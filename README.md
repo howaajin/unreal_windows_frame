@@ -8,6 +8,9 @@ When you want to use a flat theme, the editor window becomes difficult to distin
     ![comparison](images/comparison.png)
 
 * [This plugin](https://www.unrealengine.com/marketplace/slug/cde82875e27446b6b13799335c0889db) has hacked their implementation to bring back the system window shadows while removing their rounded corners. Additionally, it speeds up the response time when opening windows.  
+
+## Usage
+
 To clearly see the changes, I suggest using a flat editor theme. You can use my [Visual Studio Code theme](BorderlessLight.json).  
 Download and place it in the directory
 
@@ -32,3 +35,8 @@ Here are my two themes, which remove the original editor's border and rounded co
   [Dark](BorderlessDark.json)
   ![enable](images/dark.png)
 
+## Update
+
+  Enabled for menus
+
+  ![flat_menu](images/flat_menu.png)
