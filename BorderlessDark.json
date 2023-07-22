@@ -1,6 +1,6 @@
 {
 	"Version": 1,
-	"Id": "EBD95E6E440565221F1891870574AA0B",
+	"Id": "356E61D24300886659394391E2EE23FC",
 	"DisplayName": "Borderless Dark",
 	"Colors":
 	{
@@ -14,10 +14,10 @@
 		"EStyleColor::Recessed": "(R=0.033105,G=0.033105,B=0.033105,A=1.000000)",
 		"EStyleColor::Panel": "(R=0.018500,G=0.018500,B=0.019382,A=1.000000)",
 		"EStyleColor::Header": "(R=0.018500,G=0.018500,B=0.019382,A=1.000000)",
-		"EStyleColor::Dropdown": "(R=0.018500,G=0.018500,B=0.019382,A=1.000000)",
-		"EStyleColor::DropdownOutline": "(R=0.072272,G=0.072272,B=0.072272,A=1.000000)",
+		"EStyleColor::Dropdown": "(R=0.029557,G=0.029557,B=0.030713,A=1.000000)",
+		"EStyleColor::DropdownOutline": "(R=0.029557,G=0.029557,B=0.030713,A=1.000000)",
 		"EStyleColor::Hover": "(R=0.054480,G=0.054480,B=0.054480,A=1.000000)",
-		"EStyleColor::Hover2": "(R=0.054480,G=0.054480,B=0.054480,A=1.000000)",
+		"EStyleColor::Hover2": "(R=0.138432,G=0.138432,B=0.138432,A=1.000000)",
 		"EStyleColor::White": "(R=1.000000,G=1.000000,B=1.000000,A=1.000000)",
 		"EStyleColor::White25": "(R=1.000000,G=1.000000,B=1.000000,A=0.250980)",
 		"EStyleColor::Highlight": "(R=0.015209,G=0.104616,B=0.309469,A=1.000000)",

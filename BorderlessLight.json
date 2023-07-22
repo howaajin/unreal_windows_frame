@@ -1,6 +1,6 @@
 {
 	"Version": 1,
-	"Id": "4E45B6C64D26761B79705EBA014BD87E",
+	"Id": "B10BA38E4925E8AA6487FFB83DCD1B7F",
 	"DisplayName": "Borderless Light",
 	"Colors":
 	{
@@ -15,7 +15,7 @@
 		"EStyleColor::Panel": "(R=0.356400,G=0.356400,B=0.356400,A=1.000000)",
 		"EStyleColor::Header": "(R=1.000000,G=1.000000,B=1.000000,A=1.000000)",
 		"EStyleColor::Dropdown": "(R=0.938686,G=0.938686,B=0.938686,A=1.000000)",
-		"EStyleColor::DropdownOutline": "(R=0.043735,G=0.043735,B=0.043735,A=1.000000)",
+		"EStyleColor::DropdownOutline": "(R=0.938686,G=0.938686,B=0.938686,A=1.000000)",
 		"EStyleColor::Hover": "(R=0.686686,G=0.701102,B=0.715694,A=1.000000)",
 		"EStyleColor::Hover2": "(R=0.651406,G=0.665387,B=0.686686,A=1.000000)",
 		"EStyleColor::White": "(R=1.000000,G=1.000000,B=1.000000,A=1.000000)",
@@ -25,10 +25,10 @@
 		"EStyleColor::PrimaryHover": "(R=0.015209,G=0.104616,B=0.309469,A=1.000000)",
 		"EStyleColor::PrimaryPress": "(R=0.015209,G=0.104616,B=0.309469,A=1.000000)",
 		"EStyleColor::Secondary": "(R=0.603827,G=0.603827,B=0.603827,A=1.000000)",
-		"EStyleColor::Foreground": "(R=0.043735,G=0.043735,B=0.043735,A=1.000000)",
-		"EStyleColor::ForegroundHover": "(R=0.043735,G=0.043735,B=0.043735,A=1.000000)",
+		"EStyleColor::Foreground": "(R=0.000000,G=0.000000,B=0.000000,A=1.000000)",
+		"EStyleColor::ForegroundHover": "(R=0.010330,G=0.010330,B=0.010330,A=1.000000)",
 		"EStyleColor::ForegroundInverted": "(R=0.322917,G=0.322917,B=0.322917,A=1.000000)",
-		"EStyleColor::ForegroundHeader": "(R=0.010417,G=0.010417,B=0.010417,A=1.000000)",
+		"EStyleColor::ForegroundHeader": "(R=0.000000,G=0.000000,B=0.000000,A=1.000000)",
 		"EStyleColor::Select": "(R=0.806952,G=0.806952,B=0.806952,A=1.000000)",
 		"EStyleColor::SelectInactive": "(R=0.775822,G=0.791298,B=0.879623,A=1.000000)",
 		"EStyleColor::SelectParent": "(R=0.775822,G=0.791298,B=0.879623,A=1.000000)",
