@@ -16,7 +16,7 @@ Download and place it in the directory
 
     `%AppData%\..\Local\UnrealEngine\Slate\Themes`
 
-    ![change theme](images/theme.png)
+  ![change theme](images/theme.png)
 
   Then launch Unreal Engine and select it in `Edit->Editor Preferences->Appearance->Theme`
 
