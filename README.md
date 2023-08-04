@@ -17,6 +17,8 @@ I've opted for the voluntary payment method, so if you use it, please [buy it](h
 
 ## Usage
 
+Clone this repository, and in the UnrealWindowShadow directory, run the Build.py script (requires Visual Studio): `python Build.py --v 5.2`. This will install and enable it under the 5.2 engine.
+
 To clearly see the changes, I suggest using a flat editor theme. You can use my [Visual Studio Code theme](BorderlessLight.json).  
 Download and place it in the directory
 
