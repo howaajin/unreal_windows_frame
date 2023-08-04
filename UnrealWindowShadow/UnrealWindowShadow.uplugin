@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnrealWindowShadow",
+	"Description": "Bring back the system shadow to the Unreal Editor in Windows",
+	"Category": "System",
+	"CreatedBy": "howaajin",
+	"CreatedByURL": "https://github.com/howaajin",
+	"DocsURL": "https://github.com/howaajin",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cde82875e27446b6b13799335c0889db",
+	"SupportURL": "https://github.com/howaajin",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"EnabledByDefault": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UnrealWindowShadow",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
