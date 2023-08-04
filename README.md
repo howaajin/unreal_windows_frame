@@ -9,6 +9,12 @@ When you want to use a flat theme, the editor window becomes difficult to distin
 
 * [This plugin](https://www.unrealengine.com/marketplace/slug/cde82875e27446b6b13799335c0889db) has hacked their implementation to bring back the system window shadows while removing their rounded corners. Additionally, it speeds up the response time when opening windows.  
 
+## Licence
+
+I have uploaded the source code, which you can use in accordance with the [Epic Content License Agreement](https://www.unrealengine.com/en-US/eula/content).
+
+I've opted for the voluntary payment method, so if you use it, please [buy it](https://www.unrealengine.com/marketplace/slug/cde82875e27446b6b13799335c0889db).
+
 ## Usage
 
 To clearly see the changes, I suggest using a flat editor theme. You can use my [Visual Studio Code theme](BorderlessLight.json).  
