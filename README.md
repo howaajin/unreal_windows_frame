@@ -32,15 +32,16 @@ Download and place it in the directory
 
   And finally enable this plugin in `Edit->Plugins`
 
-
   ![enable](images/enable.png)
 
 Here are my two themes, which remove the original editor's border and rounded corners, using shadows to distinguish windows. 
 
   [Light](BorderlessLight.json) (Warning, the Light theme is not perfect in the current version of the engine, as many colors are hardcoded and cannot be changed)
+  
   ![enable](images/light.png)
 
   [Dark](BorderlessDark.json)
+
   ![enable](images/dark.png)
 
 ## Update
